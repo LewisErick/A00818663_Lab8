@@ -1,4 +1,4 @@
-let url = "http://localhost:8080/blog-posts/";
+let url = "/blog-posts/";
 
 $(document).ready(function() {
 
